@@ -8,6 +8,7 @@ My objectives for this project were:
 - How does working remotely affect job salary?
 - Does company size affect salary?
 - Salaries by job titles and which job title earns the most
+- Does more experience yield a higher salary?
 - Will Data Science salaries go up in the next year?
 
 ## Dataset
@@ -62,6 +63,9 @@ During the Covid year, remote employees earned double compared to those without 
 
 ## Impact of Company Size on Salaries
 Employees at large companies earn more than those at small or medium-sized companies.
+
+## Salary by Experience Level
+Executives (EX), which refers to high-level management roles, are the highest earners. Excluding executives, Data Scientists with senior-level experience are paid the most. 
 
 ## Top-paying Job Titles
 The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
