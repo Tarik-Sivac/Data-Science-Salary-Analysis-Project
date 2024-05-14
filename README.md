@@ -1,14 +1,15 @@
 # Data-Science-Salary-Analysis-Project
 
-Hello, this is my Data Science Salary Analysis project. This project aims to analyze and predict salaries in the data science field using a dataset ("salaries.csv") containing information on job titles, work years, experience levels, remote ratio, salary, salary in USD, company location, and company size. Using data analysis and machine learning techniques, this project provides insights into salary trends and predictions for future salaries. 
+Hello, this is my Data Science Salary Analysis project. This project aims to analyze and predict salaries in the data science field; using data analysis and machine learning techniques, this project provides insights into salary trends and predictions for future salaries. 
 
 ## Objectives
 My objectives for this project were: 
 - To find the average salaries throughout the last couple of years
 - How does working remotely affect job salary?
 - Does company size affect salary?
-- Salaries by job titles and which job title earns the most
+- Salaries by job titles and which job title earns the most and which one is the most popular
 - Does more experience yield a higher salary?
+- What country of residence has the highest average salary? 
 - Will Data Science salaries go up in the next year?
 
 ## Dataset
@@ -67,8 +68,11 @@ Employees at large companies earn more than those at small or medium-sized compa
 ## Salary by Experience Level
 Executives (EX), which refers to high-level management roles, are the highest earners. Excluding executives, Data Scientists with senior-level experience are paid the most. 
 
-## Top-paying Job Titles
-The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
+## Top-paying and most popular Job Titles 
+The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46). The most popular job title is Data Engineering. 
+
+## Geographical Analysis
+The highest average salary is by far in Israel. What follows is other Asian and Middle Eastern countries, such as Qatar and Malaysia.
 
 ### Technical Skills Used:
 - Programming Language: Python
