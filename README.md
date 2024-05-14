@@ -67,7 +67,7 @@ During the Covid year, remote employees earned double compared to those without 
 ## Top-paying Job Titles
 - The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
 
-###Technical Skills Used:
+### Technical Skills Used:
 - Programming Language: Python
 - Data Manipulation and Analysis: Pandas
 - Data Visualization: Matplotlib
