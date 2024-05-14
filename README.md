@@ -7,7 +7,6 @@ My objectives for this project were:
 - To find the average salaries throughout the last couple of years
 - How does working remotely affect job salary?
 - Does company size affect salary?
-- Does company location affect pay?
 - Salaries by job titles and which job title earns the most
 - Will Data Science salaries go up in the next year?
 
@@ -54,18 +53,18 @@ To start this project, you must clone the repository and set up the necessary de
 
 ### Results and Findings
 
-## Average Salaries Over The Last Two Years and Prediction for Next Year
-- Salaries for Data Scientists in the last two years have increased significantly
-- The average salary in the year 2025 is expected to be $164,335.16, which is a 19,996.91 increase from 2024 to 2025
+# Average Salaries Over The Last Two Years and Prediction for Next Year
+Salaries for Data Scientists in the last two years have increased significantly
+The average salary in the year 2025 is expected to be $164,335.16, which is a 19,996.91 increase from 2024 to 2025
 
-## Correlation between Salary and Remote Ratio
+# Correlation between Salary and Remote Ratio
 During the Covid year, remote employees earned double compared to those without remote work. The salary gap between fully remote and non-remote employees has narrowed in recent years, while hybrid workers are paid significantly less.
 
-## Impact of Company Size on Salaries
--Employees at large companies earn more than those at small or medium-sized companies.
+# Impact of Company Size on Salaries
+Employees at large companies earn more than those at small or medium-sized companies.
 
-## Top-paying Job Titles
-- The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
+# Top-paying Job Titles
+The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
 
 ### Technical Skills Used:
 - Programming Language: Python
