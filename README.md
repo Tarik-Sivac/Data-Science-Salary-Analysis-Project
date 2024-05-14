@@ -1,4 +1,4 @@
-# Data-Science-Salary-Analysis-project
+# Data-Science-Salary-Analysis-Project
 
 Hello, this is my Data Science Salary Analysis project. This project aims to analyze and predict salaries in the data science field using a dataset ("salaries.csv") containing information on job titles, work years, experience levels, remote ratio, salary, salary in USD, company location, and company size. Using data analysis and machine learning techniques, this project provides insights into salary trends and predictions for future salaries. 
 
