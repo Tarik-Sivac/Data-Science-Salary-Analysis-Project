@@ -22,11 +22,11 @@ The dataset used in this project includes the following columns:
 - **employee_residence**: The country of residence of the employee.
 - **remote_ratio**: The ratio of remote work (0 for no remote work, 50 for hybrid, 100 for fully remote).
 - **company_location**: The country where the company is located.
-- **company_size**: The size of the company (Small, Medium, Large).
+- **company_size**: The company's size (Small, Medium, Large).
 
   ## Getting Started
 
-To get started with this project, you will need to clone the repository and set up the necessary dependencies. Detailed instructions are provided in the "Installation" section below.
+To start this project, you must clone the repository and set up the necessary dependencies. Detailed instructions are provided in the "Installation" section below.
 
 ## Installation
 
@@ -52,13 +52,23 @@ To get started with this project, you will need to clone the repository and set 
     jupyter notebook
     ```
 
-## Results and Findings
+### Results and Findings
 
-### Average Salaries Over The Last Two Years and Prediction for Next Year
-- Salaries for Data Scientists in the last two years have increased significantley
-- The average salary in the year 2025 is expected to be $164,335.16 which is a 19,996.91 increase from 2024 to 2025
+## Average Salaries Over The Last Two Years and Prediction for Next Year
+- Salaries for Data Scientists in the last two years have increased significantly
+- The average salary in the year 2025 is expected to be $164,335.16, which is a 19,996.91 increase from 2024 to 2025
 
-### Impact of Company location on Pay 
-- As expected, salaries in Western countries were the biggest, the United States of America being the overall highest-paying country
+## Correlation between Salary and Remote Ratio
+During the Covid year, remote employees earned double compared to those without remote work. The salary gap between fully remote and non-remote employees has narrowed in recent years, while hybrid workers are paid significantly less.
 
-###
+##Impact of Company Size on Salaries
+-Employees at large companies earn more than those at small or medium-sized companies.
+
+##Top-paying Job Titles
+- The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
+
+###Technical Skills Used:
+- Programming Language: Python
+- Data Manipulation and Analysis: Pandas
+- Data Visualization: Matplotlib
+- Machine Learning: Scikit-learn (model selection, linear regression, model evaluation)
