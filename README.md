@@ -52,11 +52,13 @@ To get started with this project, you will need to clone the repository and set 
     jupyter notebook
     ```
 
-## Results and conclusion
+## Results and Findings
 
 ### Average Salaries Over The Last Two Years and Prediction for Next Year
 - Salaries for Data Scientists in the last two years have increased significantley
 - The average salary in the year 2025 is expected to be $164,335.16 which is a 19,996.91 increase from 2024 to 2025
 
 ### Impact of Company location on Pay 
-- As expected salaries in 
+- As expected, salaries in Western countries were the biggest, the United States of America being the overall highest-paying country
+
+###
