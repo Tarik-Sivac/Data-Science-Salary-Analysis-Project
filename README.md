@@ -61,10 +61,10 @@ To start this project, you must clone the repository and set up the necessary de
 ## Correlation between Salary and Remote Ratio
 During the Covid year, remote employees earned double compared to those without remote work. The salary gap between fully remote and non-remote employees has narrowed in recent years, while hybrid workers are paid significantly less.
 
-##Impact of Company Size on Salaries
+## Impact of Company Size on Salaries
 -Employees at large companies earn more than those at small or medium-sized companies.
 
-##Top-paying Job Titles
+## Top-paying Job Titles
 - The highest-paying job titles are in Management ($185,209.95), followed closely by Machine Learning roles ($182,589.46).
 
 ###Technical Skills Used:
