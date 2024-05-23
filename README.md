@@ -33,7 +33,7 @@ To start this project, you must clone the repository and set up the necessary de
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Data-Science-Salary-Analysis-Project.git
+    git clone https://github.com/Tarik-Sivac/Data-Science-Salary-Analysis-Project.git
     cd Data-Science-Salary-Analysis-Project
     ```
 
